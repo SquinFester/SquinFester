@@ -17,6 +17,11 @@ My name is Bartosz, I live in Wrocław. I am a self-taught programmer. I write m
 
 <hr>
 
+### 👽 Example of Work:
+  //do it in the future, Roger, out.
+
+<hr>
+
 ### 📡 Contact me:
 e-mail: bartoszprzymencki@gmail.com <br>
 instagram: https://www.instagram.com/bartek.oooo/?theme=dark <br>
