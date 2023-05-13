@@ -1,8 +1,11 @@
 ## Hi there 👋, Bartosz Przymencki 👨🏼‍🚀
 ### React Developer
-![React Developer](https://media.tenor.com/EbZAp_oLAcYAAAAC/astronaut.gif)
 
 My name is Bartosz, I live in Wrocław. I am a self-taught programmer. I write my amazing applications using React. I really enjoy learning new things and improving my skills, such as coding and English. I'm not afraid of new challenge. I do my best to be better every day.
+
+
+![React Developer](https://media.tenor.com/EbZAp_oLAcYAAAAC/astronaut.gif)
+
 
 <hr>
 
