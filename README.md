@@ -27,5 +27,5 @@
 
 ### 📡 Contact me:
 e-mail: bartoszprzymencki@gmail.com <br>
-instagram: https://www.instagram.com/bartek.oooo/?theme=dark <br>
+instagram: https://www.instagram.com/bartek.oooo <br>
 linkedin: https://www.linkedin.com/in/bartosz-przymencki-802620258/ <br>
